@@ -210,3 +210,18 @@
 
 5. 最后星空和叠加图进行颜色叠加输入到背面即可
 ![](2022-07-22-15-31-25.png)
+
+# 色相
+
+==关键节点: RGB to HSV  \ HSV to RGB
+1. 材质与设置:
+   <font size=2>
+
+    1. Unlit 模板
+    2. 深度写入 ZWriteMode 关掉
+    3. 混合Blend RGB : alpha blend (如果需要发光,比如光剑 就选 Add)
+    4. Tags - RenderType - Type : Transparent . + 新增 Queue : Transparent</font>
+
+简单. 看图就行
+![](2022-07-22-17-16-18.png)
+
