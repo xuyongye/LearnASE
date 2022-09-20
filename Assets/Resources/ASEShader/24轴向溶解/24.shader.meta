@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ecbccf92707f5ec49a4201e9fb1a69ae
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Genshin_WGS_WGS_Bottom_Normaltga: {fileID: 2800000, guid: acb4244d77de06449b9189d5dc6aae62, type: 3}
+  - _Genshin_WGS_WGS_Bottom_BaseColortga: {fileID: 2800000, guid: d3dcb403dab0eac43adf72a8001079ca, type: 3}
+  - _Genshin_WGS_WGS_Bottom_Emissivetga: {fileID: 2800000, guid: 42e45d2e86da0254db16a72e119829b0, type: 3}
+  - _Eff_WeaponsTotem_Grain_00: {fileID: 2800000, guid: 9800e22a7c5bf554d9bc308fb15c66f7, type: 3}
+  - _185416m37gmnk9ib6u7gkg: {fileID: 2800000, guid: a162a71e9c580594a9708d2c26fd049b, type: 3}
+  - _Genshin_WGS_WGS_Bottom_Metallictga: {fileID: 2800000, guid: 73c2a93e42ef37c4d8c9e479490e6d59, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

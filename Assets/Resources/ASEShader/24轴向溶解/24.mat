@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 24
+  m_Shader: {fileID: 4800000, guid: ecbccf92707f5ec49a4201e9fb1a69ae, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _185416m37gmnk9ib6u7gkg:
+        m_Texture: {fileID: 2800000, guid: a162a71e9c580594a9708d2c26fd049b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Eff_WeaponsTotem_Grain_00:
+        m_Texture: {fileID: 2800000, guid: 9800e22a7c5bf554d9bc308fb15c66f7, type: 3}
+        m_Scale: {x: 1, y: 3}
+        m_Offset: {x: 0, y: 0}
+    - _Genshin_WGS_WGS_Bottom_BaseColortga:
+        m_Texture: {fileID: 2800000, guid: d3dcb403dab0eac43adf72a8001079ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Genshin_WGS_WGS_Bottom_Emissivetga:
+        m_Texture: {fileID: 2800000, guid: 42e45d2e86da0254db16a72e119829b0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Genshin_WGS_WGS_Bottom_Metallictga:
+        m_Texture: {fileID: 2800000, guid: 73c2a93e42ef37c4d8c9e479490e6d59, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Genshin_WGS_WGS_Bottom_Normaltga:
+        m_Texture: {fileID: 2800000, guid: acb4244d77de06449b9189d5dc6aae62, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Float0: -1
+    - _Float3: 0
+    - _Float4: 0
+    - _Float6: 2
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 1.7207954, g: 0.75678957, b: 0.75678957, a: 1}
+    - _Color1: {r: 14.320865, g: 0, b: 16.188803, a: 1}
+    - _Color2: {r: 7.416393, g: 1.0268852, b: 0, a: 1}
+  m_BuildTextureStacks: []
